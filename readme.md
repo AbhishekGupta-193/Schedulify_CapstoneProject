@@ -86,10 +86,20 @@ This project serves as a blueprint for the next era of workplace automation — 
 
 ---
 
-### Relevant Image Demonstration for the Agent Workflow
+<h2 align="center">📌 Agent Workflow Demonstration</h2>
 
-![Sequential_flow](docs/Sequential_flow.jpg)
-![Orchestration_flow](docs/Orchestration_flow.jpg)
-![Session Management](docs/session.jpg)
+<div align="center">
+
+  <!-- Sequential Flow -->
+  <img src="docs/Sequential_flow.jpg" alt="Sequential Flow" width="70%" style="border-radius: 8px; margin-bottom: 20px;" />
+
+  <!-- Orchestration Flow -->
+  <img src="docs/Orchestration_flow.jpg" alt="Orchestration Flow" width="70%" style="border-radius: 8px; margin: 25px 0;" />
+
+  <!-- Session Management -->
+  <img src="docs/session.jpg" alt="Session Management" width="70%" style="border-radius: 8px; margin-top: 20px;" />
+
+</div>
+
 
 ---
